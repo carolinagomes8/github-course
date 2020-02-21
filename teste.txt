@@ -1,2 +1,3 @@
 Curso de Git!
 Repositorio para aprender como o GIT funcioana
+Saiba mais em: Bóson Treinamentos
