@@ -1,7 +1,2 @@
-Curso de Git!
-Repositorio para aprender como o GIT funcioana
-Saiba mais em: Bóson Treinamentos
-Dónde esta la biblioteca
-Deadpool
-Boston Celtics
-# arquivo
+Curso Github, Udemy.
+Aula: Repositórios
